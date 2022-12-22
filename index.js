@@ -31,14 +31,23 @@ const pObject = {
     from_line: 6,
     skip_empty_lines: true,
 };
+const wstream = fs.createWriteStream('./test.txt');
+const checkNavianceID = (str) => {
+    console.log(str);
+    return;
+};
 scramjet_1.StringStream.from(fs.createReadStream('./gameplan.csv'))
-    .CSVParse(pObject)
-    .map((res) => {
-    console.log(res);
-})
     .catch((err) => {
     console.log(err);
-});
+})
+    .CSVParse(pObject)
+    // .JSONStringify()
+    // .toJSONArray()
+    .map((res) => {
+    console.log(res);
+    return checkNavianceID(res[0]);
+})
+    .pipe(wstream);
 // StringStream.from(fs.createReadStream('./gameplan.csv'))
 //   .pipe(parse(pObject))
 //   .map((res: any) => {
