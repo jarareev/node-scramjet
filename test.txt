@@ -1,0 +1,16 @@
+# Game Plan Survey
+
+"Respondent Type","Respondent Name","Class Year","Student ID","Currently, what is your first-choice game plan after high school?","Which two career clusters most closely relate to your future goals?"
+"STUDENT","Abdulhai Khan","2022","52549636","College: Bachelor’s Degree","Health Science, Information Technology"
+"STUDENT","Aastha Lamsal","2022","61926975","Military Service","Business Management & Administration, Law, Public Safety, Corrections & Security"
+"STUDENT","Adam Weidmann","2022","49047881","College: Bachelor’s Degree","Business Management & Administration, Finance"
+"STUDENT","Riley Burdett","2024","49047239","Gap or Service Year","Information Technology, Arts, A/V Technology & Communications"
+"STUDENT","Hailey Krawczyk","2022","49047769","College: Bachelor’s Degree","Business Management & Administration, Marketing"
+"STUDENT","Sophia Stoicovy","2022","49047860","College: Bachelor’s Degree","Human Services, Education & Training"
+"STUDENT","Celina Mc Elhinny","2024","24024","49047344","College: Bachelor’s Degree","Science, Technology, Engineering & Mathematics, Agriculture, Food & Natural Resources"
+"STUDENT","Jacob Worthington","2025","25269","52576849","","Science, Technology, Engineering & Mathematics"
+"STUDENT","Jackson Lubash","2025","25156","52576731","College: Bachelor’s Degree","Arts, A/V Technology & Communications, Information Technology"
+"STUDENT","Robert Quinlan","2025","25034","52576801","Employment","Architecture & Construction, Architecture & Construction"
+"STUDENT","Usmia Gautam","2026","26495","65098559","College: Bachelor’s Degree","Hospitality & Tourism, Science, Technology, Engineering & Mathematics"
+"STUDENT","Aiden Pape","2025","25023","52576925","Employment","Transportation, Distribution & Logistics, Manufacturing"
+"STUDENT","Aiden Pape","2025","25023","52576925","Employment","Transportation, Distribution & Logistics, Manufacturing"
